@@ -51,7 +51,8 @@ export const useRestaurantsStore = defineStore('restaurants', () => {
       descriptionFouth: '',
       descriptionFifth:
         "Overall, Dami is a must-visit Halal restaurant in Almaty, especially during Ramadan. Whether you're looking to break your fast with family and friends or simply want to enjoy a delicious meal in a beautiful setting, Dami is the perfect choice.",
-      mapLink: '',
+      mapLink:
+        'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2907.4310937428822!2d76.88900427670627!3d43.22142048024919!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3883697c610620f7%3A0xa81f853395eee734!2sDAMI%20CAFE%20ALMATY!5e0!3m2!1sru!2skz!4v1682580115224!5m2!1sru!2skz',
       events: 'Iftar'
     },
 
@@ -83,7 +84,8 @@ export const useRestaurantsStore = defineStore('restaurants', () => {
         'Amazing cuisine is the key to the success of any event! Our menu will not leave indifferent even the most demanding gourmets!',
       descriptionFouth: '',
       descriptionFifth: '',
-      mapLink: '',
+      mapLink:
+        'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2905.9502587554525!2d76.9133152767074!3d43.25246427825633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x388369285202cd0f%3A0xd4b9abe08ba97442!2z0KXQsNC9INCh0LDRgNCw0Lk!5e0!3m2!1sru!2skz!4v1682580071281!5m2!1sru!2skz',
       events: 'Iftar'
     },
 
@@ -114,7 +116,8 @@ export const useRestaurantsStore = defineStore('restaurants', () => {
         'Join us at Hisan and discover the ultimate dining destination in Almaty. Book your table today and treat yourself to an unforgettable culinary journey.',
       descriptionFouth: '',
       descriptionFifth: '',
-      mapLink: '',
+      mapLink:
+        'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d92967.40434455691!2d76.84114884912282!3d43.267528079402396!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x388369d7aa26ed9b%3A0x8b9fa9cc51e34bf!2z0KXQsNC9INCi0LXQvdCz0YDQuA!5e0!3m2!1sru!2skz!4v1682580028919!5m2!1sru!2skz',
       events: 'Iftar'
     }
   ])
@@ -149,7 +152,8 @@ export const useRestaurantsStore = defineStore('restaurants', () => {
         'In addition to the impressive drink menu, Vice City Lounge also offers a small but delicious selection of bar bites and light snacks, perfect for enjoying alongside your drinks.',
       descriptionFifth:
         "Overall, Dami is a must-visit Halal restaurant in Almaty, especially during Ramadan. Whether you're looking to break your fast with family and friends or simply want to enjoy a delicious meal in a beautiful setting, Dami is the perfect choice.",
-      mapLink: '',
+      mapLink:
+        'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2906.9913132412007!2d76.89481757670656!3d43.23064177965723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x388369bc5a780b77%3A0x87127fc08438e185!2sVice%20City%20Lounge!5e0!3m2!1sru!2skz!4v1682580388766!5m2!1sru!2skz',
       events: '8th March'
     },
 
@@ -175,7 +179,8 @@ export const useRestaurantsStore = defineStore('restaurants', () => {
         'The menu includes dishes such as fresh salads, savory soups, and decadent desserts, all prepared with a special touch to make the occasion unforgettable.',
       descriptionFifth:
         'During the 8th March celebration, Zena offers a special menu that features a variety of dishes that are specifically designed to celebrate and honor women. ',
-      mapLink: '',
+      mapLink:
+        'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2907.0987126114755!2d76.90440007670658!3d43.228389979801996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x388369a70ebd22d3%3A0x9fa4b4bc4c022808!2z0KDQtdGB0YLQvtGA0LDQvSBaZW5h!5e0!3m2!1sru!2skz!4v1682580312688!5m2!1sru!2skz',
       events: '8th March'
     },
 
@@ -202,7 +207,8 @@ export const useRestaurantsStore = defineStore('restaurants', () => {
         "With great drinks, an alluring atmosphere, and a range of unique experiences, it's the perfect spot for a night out with friends or a date with that special someone. ",
       descriptionFifth:
         "Don't miss out on the fun - visit Only Fans and see why it's quickly becoming one of the most popular pubs in Almaty.",
-      mapLink: '',
+      mapLink:
+        'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2906.888784100376!2d76.95676217670672!3d43.2327913795193!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38836fb570ab9335%3A0x2450a5f91292ba63!2sONLY%20FANS%20BAR%20By%20Mildom%20hotels!5e0!3m2!1sru!2skz!4v1682580285624!5m2!1sru!2skz',
       events: '8th March'
     }
   ])
@@ -230,7 +236,8 @@ export const useRestaurantsStore = defineStore('restaurants', () => {
       descriptionFouth:
         "If you're looking for a dining experience that you won't forget, head to this popular restaurant and indulge in a delicious meal that will leave you feeling satisfied and impressed. Don't miss out on the chance to experience one of the best restaurants in town.",
       descriptionFifth: '',
-      mapLink: '',
+      mapLink:
+        'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2907.02754755676!2d76.9076943767066!3d43.22988207970603!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x388369c6854b32a1%3A0xa34022905ea1404d!2sThe%20FRIENDS%20Restaurant%20Meat%7CDrink%7CDance!5e0!3m2!1sru!2skz!4v1682580220007!5m2!1sru!2skz',
       events: 'New Year'
     },
 
@@ -256,7 +263,8 @@ export const useRestaurantsStore = defineStore('restaurants', () => {
       descriptionFouth: '',
       descriptionFifth:
         "Head to Sansara tonight and experience the best of Almaty's nightlife. With great drinks, a lively atmosphere, and a friendly staff, it's the perfect spot for a night out with friends or a date with that special someone.",
-      mapLink: '',
+      mapLink:
+        'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2906.1390227629377!2d76.93420097670722!3d43.24850807851029!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38836f1de67d3c29%3A0x16dd6e0bd2c92870!2sSansara!5e0!3m2!1sru!2skz!4v1682580248504!5m2!1sru!2skz',
       events: 'New Year'
     }
   ])
@@ -283,7 +291,8 @@ export const useRestaurantsStore = defineStore('restaurants', () => {
       descriptionFouth: '',
       descriptionFifth:
         "Whether you're looking to relax with friends and family or want to enjoy a delicious meal in a beautiful outdoor setting, Meduza has something for everyone.",
-      mapLink: '',
+      mapLink:
+        'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2907.019744606612!2d76.94470737670649!3d43.23004567969566!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38836f1c293c32d7%3A0xdf80f094d7faef76!2sMeduse%20Cafeteria%20Bar!5e0!3m2!1sru!2skz!4v1682580153943!5m2!1sru!2skz',
       events: 'Corporate'
     },
 
@@ -309,7 +318,8 @@ export const useRestaurantsStore = defineStore('restaurants', () => {
         "It's a destination for anyone looking to experience the rich culture and hospitality of Georgia. The friendly staff are always happy to answer questions and share stories about Georgian traditions and customs, making it a great spot for a cultural experience as well as a delicious meal.",
       descriptionFifth:
         "With delicious food, a warm and inviting atmosphere, and friendly staff, it's the perfect spot for a night out with friends or a date with that special someone. Don't miss out on the chance to experience one of the best Georgian restaurants in town - visit Ezo and see why it's quickly becoming a favorite among locals and visitors alike.",
-      mapLink: '',
+      mapLink:
+        'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2905.9269640818297!2d76.9449309767074!3d43.25295247822487!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38836f8d85517127%3A0x3b77cac569f523b4!2zRVpPINCg0JXQodCi0J7QoNCQ0J0g0JPQoNCj0JfQmNCd0KHQmtCe0Jkg0JrQo9Cl0J3QmA!5e0!3m2!1sru!2skz!4v1682580189744!5m2!1sru!2skz',
       events: 'Corporate'
     }
   ])
@@ -337,7 +347,8 @@ export const useRestaurantsStore = defineStore('restaurants', () => {
       descriptionFouth: '',
       descriptionFifth:
         "Overall, Dami is a must-visit Halal restaurant in Almaty, especially during Ramadan. Whether you're looking to break your fast with family and friends or simply want to enjoy a delicious meal in a beautiful setting, Dami is the perfect choice.",
-      mapLink: '',
+      mapLink:
+        'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2907.4310937428822!2d76.88900427670627!3d43.22142048024919!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3883697c610620f7%3A0xa81f853395eee734!2sDAMI%20CAFE%20ALMATY!5e0!3m2!1sru!2skz!4v1682580115224!5m2!1sru!2skz',
       events: 'Iftar'
     },
 
@@ -369,7 +380,8 @@ export const useRestaurantsStore = defineStore('restaurants', () => {
         'Amazing cuisine is the key to the success of any event! Our menu will not leave indifferent even the most demanding gourmets!',
       descriptionFouth: '',
       descriptionFifth: '',
-      mapLink: '',
+      mapLink:
+        'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2905.9502587554525!2d76.9133152767074!3d43.25246427825633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x388369285202cd0f%3A0xd4b9abe08ba97442!2z0KXQsNC9INCh0LDRgNCw0Lk!5e0!3m2!1sru!2skz!4v1682580071281!5m2!1sru!2skz',
       events: 'Iftar'
     },
 
@@ -400,7 +412,8 @@ export const useRestaurantsStore = defineStore('restaurants', () => {
         'Join us at Hisan and discover the ultimate dining destination in Almaty. Book your table today and treat yourself to an unforgettable culinary journey.',
       descriptionFouth: '',
       descriptionFifth: '',
-      mapLink: '',
+      mapLink:
+        'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d92967.40434455691!2d76.84114884912282!3d43.267528079402396!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x388369d7aa26ed9b%3A0x8b9fa9cc51e34bf!2z0KXQsNC9INCi0LXQvdCz0YDQuA!5e0!3m2!1sru!2skz!4v1682580028919!5m2!1sru!2skz',
       events: 'Iftar'
     }
   ])
@@ -472,10 +485,12 @@ export const useRestaurantsStore = defineStore('restaurants', () => {
         'The decor, lighting, and music are all carefully designed to create a specific atmosphere that complements the theme of the restaurant.',
       descriptionThird:
         'The menu is also crafted to reflect the theme, with dishes that are not only delicious but also visually stunning.',
-      descriptionFouth: "But Verde is more than just a place to eat. It's an opportunity to immerse yourself in a different culture, time period, or fantasy world.",
+      descriptionFouth:
+        "But Verde is more than just a place to eat. It's an opportunity to immerse yourself in a different culture, time period, or fantasy world.",
       descriptionFifth:
         "So why not step outside of your comfort zone and try something new? Visit Verde and experience the magic for yourself. Don't miss out on the chance to create lasting memories and indulge in a truly unique dining experience.",
-      mapLink: '',
+      mapLink:
+        'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2906.872752820444!2d76.95705187670667!3d43.23312747949765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38836f7df13a14dd%3A0x3065dcf045bc4188!2sVERDE%20RESTAURANT%20by%20Grand%20Mildom%20Almaty!5e0!3m2!1sru!2skz!4v1682557909932!5m2!1sru!2skz',
       events: 'Iftar'
     }
   ])

@@ -142,7 +142,7 @@ function showPopup(value: boolean) {
 
         <section class="restaurant-map">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2906.872752820444!2d76.95705187670667!3d43.23312747949765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38836f7df13a14dd%3A0x3065dcf045bc4188!2sVERDE%20RESTAURANT%20by%20Grand%20Mildom%20Almaty!5e0!3m2!1sru!2skz!4v1682557909932!5m2!1sru!2skz"
+            :src="restaurantsStore.clickedRestaurant.mapLink"
             width="100%"
             height="600px"
             style="border: 0"
