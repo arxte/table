@@ -1,0 +1,38 @@
+.footer-logo{
+  display: flex;
+  flex-direction: row;
+  min-width: 100%;
+  gap: 20px;
+  overflow: hidden;
+  padding-top: 100px;
+}
+
+.first-part {
+  font-size: 11.25em;
+  color: #E2E8EE;
+  font-weight: 400;
+  align-self: flex-end;
+}
+
+.parts-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.right {
+  font-size: .75em;
+  font-weight: 400;
+  color: #E2E8EE;
+}
+
+.second-part {
+  color: #bf9341;
+  font-style: italic;
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 11.25em;
+}
+
+.hidden-text {
+  color: transparent;
+}

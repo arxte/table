@@ -1,0 +1,154 @@
+.carousel-estab {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  padding-bottom: 140px;
+  padding-top: 110px;
+}
+
+.carousel-estab-text {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.carousel-estab-text__name-section {
+  color: #bf9341;
+  font-weight: 400;
+  font-size: 0.75em;
+}
+
+.carousel-estab-text__title {
+  color: #e2e8ee;
+  font-size: 2.375em;
+  font-weight: 600;
+}
+
+.carousel-estab-text__title_yellow {
+  color: #bf9341;
+  font-style: italic;
+  font-family: 'Playfair Display', sans-serif;
+}
+
+.carousel {
+  color: #fff;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  min-width: 100%;
+  gap: 10px;
+}
+
+.swiper-slide {
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-between; */
+  gap: 30px;
+}
+
+.carousel__item {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.carousel__link{
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.item-text-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.item-text__title {
+  color: #e2e8ee;
+  font-size: 1.75em;
+  font-weight: 600;
+}
+
+.item-text-about {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.item-text-about-kitchen,
+.item-text-about-average-check {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.item-text-about__nomination {
+  color: #bf9341;
+  font-size: 0.75em;
+  font-weight: 400;
+}
+
+.item-text-about__nomination-value {
+  color: #e2e8ee;
+  font-size: 1em;
+  font-weight: 400;
+}
+
+.custom-next,
+.custom-prev {
+  width: 50px;
+  height: 50px;
+  background-color: #fff;
+}
+
+.carousel__control {
+  min-width: 25%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.control__pagination {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.pagination__item {
+  color: rgba(226, 232, 238, 0.1);
+  font-size: 1.25em;
+  font-weight: 400;
+}
+
+.pagination__item_active {
+  color: #bf9341;
+}
+
+.control__navigation {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.navigation__item {
+  min-width: 43%;
+  padding: 25px 30px;
+  box-sizing: border-box;
+  background-color: rgba(226, 232, 238, 0.1);
+  cursor: pointer;
+  position: relative;
+  border-radius: 7px;
+}
+
+.navigation__item img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 80%;
+}
+
+.navigation__item:hover {
+  background-color: #e2e8ee;
+}

@@ -1,0 +1,136 @@
+.filter-estab {
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-between; */
+  /* gap: 50px; */
+  padding-bottom: 150px;
+  padding-top: 80px;
+}
+
+.new-establishments-search-wrapper {
+  min-width: 25%;
+}
+
+select {
+  padding: 12px 8px;
+  background-color: transparent;
+  border: 1px solid #7e7e7e;
+  color: #fff;
+  min-width: 100%;
+  margin-bottom: 7px;
+}
+
+.placeholder {
+  color: #fff;
+}
+
+option {
+  color: #000;
+}
+
+option:hover {
+  color: #bf9341;
+  background-color: #fff;
+}
+
+.filter-estab-text{
+  max-width: 39%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.filter-estab-text__name-section {
+  color: #bf9341;
+  font-size: 0.75em;
+  font-weight: 400;
+}
+
+.filter-estab-text__title {
+  color: #fff;
+  font-weight: 600;
+  font-size: 2.375em;
+}
+
+.filter-estab-text__title_yellow {
+  font-family: 'Playfair Display', sans-serif;
+  font-style: italic;
+  color: #bf9341;
+  font-weight: 600;
+}
+
+.filter-estab-text__paragraph {
+  color: #fff;
+  font-size: 1em;
+  font-weight: 400;
+}
+
+.filter-estab-form {
+  padding: 0px 11%;
+  /* display: flex; */
+  /* flex-direction: column; */
+  gap: 7px;
+  /* min-width: 100%; */
+}
+
+.filter-estab-form__btn {
+  min-width: 100%;
+  padding: 10px;
+  background-color: #bf9341;
+  border: none;
+  color: #000;
+  font-size: 1em;
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+  cursor: pointer;
+}
+
+.filtered-estab {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  justify-content: space-evenly;
+}
+
+.carousel__item {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.item-text-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.item-text__title {
+  color: #e2e8ee;
+  font-size: 1.75em;
+  font-weight: 600;
+}
+
+.item-text-about {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.item-text-about-kitchen,
+.item-text-about-average-check {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.item-text-about__nomination {
+  color: #bf9341;
+  font-size: 0.75em;
+  font-weight: 400;
+}
+
+.item-text-about__nomination-value {
+  color: #e2e8ee;
+  font-size: 1em;
+  font-weight: 400;
+}
